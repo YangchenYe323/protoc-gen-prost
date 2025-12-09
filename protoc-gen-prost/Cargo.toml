@@ -22,3 +22,5 @@ prost-build.workspace = true
 prost-types.workspace = true
 prost.workspace = true
 regex.workspace = true
+prost-reflect-build.workspace = true
+prost-reflect.workspace = true
